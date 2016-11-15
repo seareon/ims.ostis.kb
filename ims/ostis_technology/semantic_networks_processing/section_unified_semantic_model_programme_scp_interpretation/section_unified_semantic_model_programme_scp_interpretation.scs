@@ -34,15 +34,6 @@ rrel_key_sc_element -> (section_unified_semantic_model_programme_scp_interpretat
 	=> nrel_key_sc_element_order: (section_unified_semantic_model_programme_scp_interpretation -> sc_agent_of_proper_scp_program_insertion_to_sc_memory)
 (*
 	<- rrel_key_sc_element;;
-	=> nrel_key_sc_element_order: (section_unified_semantic_model_programme_scp_interpretation -> sc_agent_of_scp_program_verivication)
-(*
-	<- rrel_key_sc_element;;
-	=> nrel_key_sc_element_order: (section_unified_semantic_model_programme_scp_interpretation -> sc_agent_of_scp_program_syntactic_verivication)
-(*
-	<- rrel_key_sc_element;;
-	=> nrel_key_sc_element_order: (section_unified_semantic_model_programme_scp_interpretation -> sc_agent_of_scp_program_semantic_verivication)
-(*
-	<- rrel_key_sc_element;;
 	=> nrel_key_sc_element_order: (section_unified_semantic_model_programme_scp_interpretation -> sc_agent_of_scp_program_preprocessing)
 (*
 	<- rrel_key_sc_element;;
@@ -67,12 +58,6 @@ rrel_key_sc_element -> (section_unified_semantic_model_programme_scp_interpretat
 	=> nrel_key_sc_element_order: (section_unified_semantic_model_programme_scp_interpretation -> prepared_scp_program)
 (*
 	<- rrel_key_sc_element;;
-	=> nrel_key_sc_element_order: (section_unified_semantic_model_programme_scp_interpretation -> correct_scp_program)
-(*
-	<- rrel_key_sc_element;;
-	=> nrel_key_sc_element_order: (section_unified_semantic_model_programme_scp_interpretation -> incorrect_scp_program)
-(*
-	<- rrel_key_sc_element;;
 	=> nrel_key_sc_element_order: (section_unified_semantic_model_programme_scp_interpretation -> sc_agent_of_scp_process_creation)
 (*
 	<- rrel_key_sc_element;;
@@ -94,6 +79,5 @@ rrel_key_sc_element -> (section_unified_semantic_model_programme_scp_interpretat
 	=> nrel_key_sc_element_order: (section_unified_semantic_model_programme_scp_interpretation -> sc_agent_of_processing_of_sc_event_initiating_active_sc_agent)
 (*
 	<- rrel_key_sc_element;;
-*);;*);;*);;
-*);;*);;*);;*);;*);;*);;*);;*);;*);;*);;
+*);;*);;*);;*);;*);;*);;*);;*);;
 *);;*);;*);;*);;*);;*);;*);;*);;*);;*);;
